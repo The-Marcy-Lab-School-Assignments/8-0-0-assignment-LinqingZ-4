@@ -61,7 +61,7 @@ You got this!
 
 **Create your files:**
 * Create a `server` folder and `cd` into it.
-* Run `npm init -Y` to create a `package.json` file.
+* Run `npm init -y` to create a `package.json` file.
 * Create an `index.js` file in the `server` folder.
 
 **Configure package.json**
